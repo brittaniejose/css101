@@ -1,0 +1,26 @@
+h1 {
+    color: #00bcd4;
+}
+
+h2 {
+    color:gold;
+}
+
+p {
+    color:blanchedalmond;
+}
+body {
+    background-color: blue;
+}
+
+li {
+    color: orange;
+}
+
+.text-size {
+    font-size: 18px;
+}
+
+#p1 {
+    font-size: 14px
+}

@@ -1,0 +1,19 @@
+h1 {
+    color: white;
+}
+
+p {
+    color:gold;
+}
+
+body {
+    background-color: crimson;
+}
+
+#p1 {
+    color:blueviolet;
+}
+.big-text {
+    font-size: 18px;
+}
+
